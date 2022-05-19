@@ -3,7 +3,7 @@ package net.codejava;
 import java.util.Scanner;
 
 public class Es_Abbonamenti_5 {
-
+//ciao
 	public static void main(String[] args) {
 	System.out.println("Di che tipo di abbonamento scegli (S= Settimanale, M= Mensile o A= Annuale)?:");
 	char tipo= ' ';
